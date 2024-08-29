@@ -1,2 +1,2 @@
-The Oil and Petroleum Database Analysis SQL project is designed to analyze and manage data related to the oil and petroleum industry. This project focuses on leveraging SQL to extract insights from complex datasets concerning exploration, production, refining, and distribution within the industry. 
+The Oil and Petroleum Analysis SQL project is designed to analyze and manage data related to the oil and petroleum industry. This project focuses on leveraging SQL to extract insights from complex datasets concerning exploration, production, refining, and distribution within the industry. 
 The goal is to provide actionable intelligence to support decision-making and optimize operations in the oil and petroleum sector.
